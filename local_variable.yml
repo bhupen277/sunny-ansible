@@ -7,4 +7,7 @@
         msg: "{{url}}" 
         vars:
       URL: www.DevOps.com
+     - name: print task of debug file 
+       debug:
+        msg: "{{url}}"   
 ...
