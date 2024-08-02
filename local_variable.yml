@@ -1,6 +1,0 @@
----
-- name: sunny loacal file variable 
-  hosts: all
-  tasks:
-    - name: print task of debug file 
-     
