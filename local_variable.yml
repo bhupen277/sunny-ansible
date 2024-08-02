@@ -7,4 +7,5 @@
         msg: "{{url}}" 
   vars:
       URL: www.DevOps.com
+      
 ...
