@@ -4,4 +4,4 @@
   tasks:
     - name: print task of debug file 
        debug:
-        msg: "{{}} 
+        msg: "{{url}}"" 
