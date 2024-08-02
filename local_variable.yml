@@ -1,10 +1,10 @@
 ---
 - name: sunny loacal file variable 
   hosts: all
-   task
+   tasks:
     - name: print task of debug file 
        debug:
         msg: "{{url}}" 
-        vars:
+  vars:
       URL: www.DevOps.com
 ...
