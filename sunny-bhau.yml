@@ -10,4 +10,4 @@
       debug:
         msg: "{{URL}}"
   vars:
-      URL: www.DevOps.com  
+      URL: www.cloud.com  
