@@ -6,7 +6,7 @@
         msg: "{{URL}}"
   vars:
       URL: www.DevOps.com
-  tasks:
+  #tasks:
     - name: Task one provided by bhupi
       debug:
         msg: "{{URL}}"
