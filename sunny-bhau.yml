@@ -6,6 +6,7 @@
         msg: "{{URL}}"
   vars:
       URL: www.DevOps.com
+    
     - name: Task one provided by jarvis
       debug:
         msg: "{{URL}}"
