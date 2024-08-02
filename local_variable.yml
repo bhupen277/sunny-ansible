@@ -1,0 +1,5 @@
+---
+- name: sunny loacal file variable 
+  hosts: all
+  tasks:
+      - 
