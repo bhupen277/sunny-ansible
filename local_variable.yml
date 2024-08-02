@@ -1,7 +1,7 @@
 ---
 - name: sunny loacal file variable 
-  hosts: allvars:
-      URL: www.DevOps.com
+  hosts: all
+  
   tasks:
     - name: print task of debug file 
        debug:
